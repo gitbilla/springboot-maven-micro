@@ -26,11 +26,6 @@
             <url>http://192.168.1.27:8081/repository/maven-releases</url>
          </repository>
 
-         <repository-billa>
-            <id>maven-billa-repo</id>
-            <url>http://192.168.1.27:8081/repository/maven-billa-repo</url>
-         </repository-billa>
-
 </distributionManagement>
      <dependencies>
                 <dependency>
